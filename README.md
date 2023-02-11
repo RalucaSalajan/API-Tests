@@ -57,7 +57,7 @@ key: action and value: delete represents the action to delete a user by id. The 
 
 -----------------------------------------------------------------------------
 
-** Weather Tests - https://openweathermap.org/forecast5**
+**Weather Tests - https://openweathermap.org/forecast5**
 
 API for searching weather forecast for 5 days with data every 3 hours by city name.
 
