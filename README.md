@@ -61,12 +61,15 @@ key: action and value: delete represents the action to delete a user by id. The 
 
 API for searching weather forecast for 5 days with data every 3 hours by city name.
 
-Parameters:
+Using 4 Parameters:
 
-key: q and value: Madrid represents the city
-key: appid represents your unique API key generate by https://openweathermap.org/
-key: units represents units of measurement, can take values: standard, metric or imperial
-key: lang and the value: ro represents the language
+1. key: q and value: Madrid represents the city
+
+2. key: appid represents your unique API key generate by https://openweathermap.org/
+
+3. key: units represents units of measurement, can take values: standard, metric or imperial
+
+4. key: lang and the value: ro represents the language
 
 ![weather](https://user-images.githubusercontent.com/120104620/218258225-bc2a9119-ec9e-4b3b-86d0-5d126e78c967.png)
 
