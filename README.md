@@ -1,4 +1,4 @@
-# API-Tests
+# API-Tests using Postman
 
 Below are some API test samples that I tested from my experience.
 
